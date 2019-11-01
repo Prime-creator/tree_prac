@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1567188211 source:d:\crack ds\main.cpp
+	<iostream>
+	<cmath>
+	<unordered_map>
+
+1571465474 source:c:\users\kunal\desktop\numero_uno\crack ds\main.cpp
+	<iostream>
+	<algorithm>
+	<cmath>
+	<unordered_map>
+	<cmath>
+	<stack>
+
